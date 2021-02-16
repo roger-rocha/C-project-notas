@@ -1,0 +1,15 @@
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/bin/Debug/net5.0/Upgrade.deps.json
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/bin/Debug/net5.0/Upgrade.runtimeconfig.json
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/bin/Debug/net5.0/Upgrade.runtimeconfig.dev.json
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/bin/Debug/net5.0/Upgrade.dll
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/bin/Debug/net5.0/ref/Upgrade.dll
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/bin/Debug/net5.0/Upgrade.pdb
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.csprojAssemblyReference.cache
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.AssemblyInfoInputs.cache
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.AssemblyInfo.cs
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.csproj.CoreCompileInputs.cache
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.dll
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/ref/Upgrade.dll
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.pdb
+/Users/rogeriorocha/Desktop/Projects/c#/teste/Upgrade/obj/Debug/net5.0/Upgrade.genruntimeconfig.cache
